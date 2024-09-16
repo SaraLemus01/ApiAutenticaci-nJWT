@@ -1,0 +1,6 @@
+@SYLM15092024_HostAddress = http://localhost:5104
+
+GET {{SYLM15092024_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
